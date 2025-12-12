@@ -1,5 +1,9 @@
 # Archivation notice
-Archived. I took project back into closed source as there was little interest. Please feel free to use this version for your reference. If you're interested in closed-source version - please reach out to me.
+Archived. I took project back into closed source due to lack of free time. Please feel free to use this version for your reference. If you're interested in closed-source version - please reach out to me.
+
+The commercial version is available under NPM package [`@woosh/meep-engine`](https://www.npmjs.com/package/@woosh/meep-engine)
+
+---
 
 # meep
 [![NPM Package][npm]][npm-url]
