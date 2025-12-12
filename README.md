@@ -95,3 +95,16 @@ This is how the engine was created, as a tool to help me build my games. Over ti
 
 [npm]: https://img.shields.io/npm/v/@woosh/meep
 [npm-url]: https://www.npmjs.com/package/@woosh/meep
+
+---
+### History
+
+I started working on what later became `meep` around 2013. Back then I was looking for a high-performance 3d game engine for the browser, and came to a frustrating realization that nothing existed. There were various projects, but they were either abandoned, lacking in quality or being little more than a prototype and nowhere near production ready.
+
+Meep was later used to finish that game, and another few smaller games. From ~2015 I was working fully on [Might is Right](https://store.steampowered.com/app/1152160/Might_is_Right/) and when it was released in 2019 into Early Access - I started thinking of releasing the engine into public access. Later that year this repository was created.
+
+Work on meep has continued ever since, but due to personal circumstances - I simply didn't have the time to work around an open-source project.
+
+Over the period of 2019 to 2025 meep was used in a 6 of non-gaming commercial products as well as another un-released game. I was contacted by a huge nubmer of people wanting to use the engine in their own projects and I have provided licenses to most of those.
+
+This brings us to Dec 2025, when this is written. The engine has been developed much further since then, I have been spending anywhere between a couple of hour to a full work week on meep since this repository was created. The new version is available as a proprietery software. I strongly believe in the open web and in the idea that source code should be available, so the new version is still "source-available".
